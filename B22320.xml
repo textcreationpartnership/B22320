@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bill of attainder that passed against Thomas Earle of Strafford</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22320</idno><idno type="EEBO-CITATION">11204934_46750</idno>
+  <idno type="VID">46750</idno>
+  <idno type="EEBO-PROQUEST">2264187645</idno>
+  
+            <idno type="STC">Wing E2533</idno>
+            <idno type="STC">ESTC R10990</idno>
+            <idno type="OCLC">11204934</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 836:2 or 1441:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bill of attainder that passed against Thomas Earle of Strafford</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item can be found at reels 836:2 and 1441:30.</note>
+                  <note>Wing number B2892 cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of originals in the Harvard University Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46750:1"/>
+            <pb facs="tcp:46750:1"/>
+            <p>THE BILL OF ATTAINDER, THAT PASSED AGAINST THOMAS EARLE OF STRAFFORD.</p>
+            <p>Printed for <hi>J. A.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="bill">
+            <pb facs="tcp:46750:2"/>
+            <pb n="1" facs="tcp:46750:2"/>
+            <head>THE BILL OF ATTAINDER, THAT PASSED AGAINST <hi>THOMAS</hi> EARLE OF <hi>STRAFFORD.</hi>
+            </head>
+            <p>WHereas the Knights, Ci<g ref="char:EOLhyphen"/>tizens, and Burgesses of the House of Commons in this present Parliament as<g ref="char:EOLhyphen"/>sembled, have in the name of themselves, and of all the Commons of <hi>England,</hi> impeached <hi>Thomas</hi> Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> of High Treason, for endeavoring to subvert the Ancient and Fundamentall Lawes and Governement of his Maiesties Realmes of <hi>England,</hi> and <hi>Ireland,</hi> and to in<g ref="char:EOLhyphen"/>troduce an Arbitrary and Tyrannicall Go<g ref="char:EOLhyphen"/>vernment against Law in the said Kingdomes; and for exercising a Tyrannous and exorbitant Power over and against the Lawes of the said Kingdomes, over the Liberties, Estates,
+<pb n="2" facs="tcp:46750:3"/> and Lives of his Majesties Subjects; and likewise for having by his owne authority Commanded the laying and asseising of Souldiers upon his Majesties Subjects in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> against their consents, to compell them to obey his unlawfull Commands and Or<g ref="char:EOLhyphen"/>ders made upon paper Petitions in Causes between patty and party, which accordingly was executed upon divers of his Majesties Subjects in a Warlike manner within the said Realme of <hi>Ireland;</hi> and in so doing, did levie Warre against the Kings Majestie and his liege people in that Kingdome; And also for that hee upon the unhappie Dis<g ref="char:EOLhyphen"/>solution of the last Parliament, did slander the House of Commons to his Majestie, and did Councell and advise his Majestie that hee was loose and absolved from Rules of Governement, and that hee had an Army in <hi>Ireland,</hi> which he might imploy to reduce this Kingdome; for which hee deserves to undergoe the Paines and For<g ref="char:EOLhyphen"/>feitures of High Treason.</p>
+            <p>And the said Earle hath beene also an Incendiary of the Warres betweene the two Kingdomes of <hi>England</hi> and <hi>Scotland:</hi> all which Offences have beene sufficiently Proved against the said Earle upon his im<g ref="char:EOLhyphen"/>peachment.</p>
+            <pb n="3" facs="tcp:46750:3"/>
+            <p>Be it therefore enacted by the Kings most excellent Majestie, and by the Lords and Commons in this present Parliament assem<g ref="char:EOLhyphen"/>bled, and by authoritie of the same, That the said Earle of <hi>Strafford</hi> for the haynous Crimes and Offences aforesaid, stand and be adjudged and attainted of high Treason, and shall suffer such paine of death, and incurre the forfeitures of his Goods and Chattels, Lands, Tenements, and Hereditaments of any estate of Free-hold or Inheritance in the said Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> which the said Earle or any other to his use, or in trust for him, have or had the day of the first sitting of this present Parliament, or at any time since.</p>
+            <p>Provided that no Judge or Judges, Justice or Justices whatsoever, shall adjudge or in<g ref="char:EOLhyphen"/>terpret any Act or thing to be Treason, nor heare or determine any Treason, nor in any other manner then he or they should or ought to have done before the making of this Act, and as if this Act had never beene had nor made. Saving alwayes unto all and singular persons and bodies politique and corporall, their Heires and Successors, others then the said Earle and his heires, and such as claime by, from, or under him, all such right, title, and interest, of, in, and to all and singular such of the said Lands, Tenements, and Here<g ref="char:EOLhyphen"/>ditaments,
+<pb n="4" facs="tcp:46750:4"/> as he, they, or any of them, had before the first day of this present Parlia<g ref="char:EOLhyphen"/>ment, any thing herein contained to the con<g ref="char:EOLhyphen"/>trary notwithstanding.</p>
+            <p>Provided that the passing of this present Act, and his Majesties assent thereunto, shall not be any determination of this present Ses<g ref="char:EOLhyphen"/>sions of Parliament, but that this present Sessions of Parliament, and all Bills and mat<g ref="char:EOLhyphen"/>ters whatsoever depending in Parliament, and not fully enacted or determined. And all Statutes and Acts of Parliament, which have their continuance untill the end of this present Session of Parliament, shall remaine, continue, and be in full force, as if this Act had not been.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46750:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
